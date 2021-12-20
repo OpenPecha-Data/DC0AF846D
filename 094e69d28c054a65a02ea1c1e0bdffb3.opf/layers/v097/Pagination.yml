@@ -1855,31 +1855,31 @@ annotations:
     reference: ''
     span:
       start: 379462
-      end: 381724
+      end: 381684
   bbafb3e703284e43b57d4278a0a05018:
     imgnum: 1187
     reference: ''
     span:
-      start: 381726
-      end: 383633
+      start: 381686
+      end: 383593
   5fdcfceb28044b8d987dadc90413f705:
     imgnum: 1188
     reference: ''
     span:
-      start: 383635
-      end: 385731
+      start: 383595
+      end: 385691
   4bd38be6ccae49a29f9d5482a7d18a78:
     imgnum: 1189
     reference: ''
     span:
-      start: 385733
-      end: 387916
+      start: 385693
+      end: 387876
   ea391985384e4c96b070706ec937f66d:
     imgnum: 1190
     reference: ''
     span:
-      start: 387918
-      end: 388284
+      start: 387878
+      end: 388244
 local_ids:
   7faadebe9d0f48febe61ee9c8751bccc: 200000
   77c25697728f4c689547eb7020139591: 200001
